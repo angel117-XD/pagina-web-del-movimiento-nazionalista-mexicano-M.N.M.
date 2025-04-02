@@ -80,14 +80,14 @@
 		<nav class="navegacion">
 			<ul class="menu">
 				<li><a href="Inicio.php"> inicio </a></li>
-				<li><a href="Nosotros.php"> Nosotros </a></li>
-				<li><a href="#"> . </a>
+				<li><a href="Historia.php"> Nosotros </a></li>
+				<li><a href="#">  </a>
 				    <ul class="submenu">
 				    	<li><a href="Legos.php">Legos</a></li>
 				    	<li><a href="MegaConstrux.php">Mega Construx</a></li>
 				    </ul>
 				</li>
-				<li><a href="FORMULARIO2 GuerecaMarin.php">Unirme</a></li>
+				<li><a href="Unirme.php">Unirme</a></li>
 			</ul>	
 		</nav>
 	</header>
